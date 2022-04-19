@@ -7,5 +7,5 @@ I'm a student of Cybersecurity Master Degree @ **Politecnico di Torino**, *Turin
 
 
 Here some informations about my GitHub profile:  
-[![Stats](https://github-readme-stats.vercel.app/api?username=GrayNeel&hide=stars&count_private=true&include_all_commits=true&custom_title=Stats&show_icons=true&theme=react&hide_border=true)](https://github.com/GrayNeel)  
+![Stats](https://github-readme-stats.vercel.app/api?username=grayneel&count_private=true&show_icons=true&theme=dark&hide=stars&hide_border=true)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayNeel&layout=compact&langs_count=10&theme=react&hide_border=true)](https://github.com/GrayNeel)  
