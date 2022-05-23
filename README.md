@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GrayNeel&label=Profile%20views&color=0e75b6&style=flat" alt="binco97" /> </p>
+
 ### Hi there, It's Marco Smorti 👋
 
 I'm a student of Cybersecurity Master Degree @ **Politecnico di Torino**, *Turin - Italy* 🏫.
