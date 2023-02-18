@@ -2,8 +2,8 @@
 
 ### Hi there, It's Marco Smorti 👋
 
-I'm a student of Cybersecurity Master Degree @ **Politecnico di Torino**, *Turin - Italy* 🏫.
-* 🔭 I’m currently working on a Telegram Bot that help PoliTo's students find all the groups of courses and more. 
+I'm a student of Computer Engineering (Cybersecurity) Master Degree @ **Politecnico di Torino**, *Turin - Italy* 🏫.
+* 🔭 I’m currently working on my thesis about ransomware attacks detection on computer networks. 
 * 💬 Ask me about IT: Cybersecurity, Telegram Bots and Web Applications
 * ⚡ Fun fact: I love games and i'm addicted to League of Legends!
 
