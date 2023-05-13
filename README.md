@@ -2,10 +2,10 @@
 
 ### Hi there, It's Marco Smorti 👋
 
-I'm a student of Computer Engineering (Cybersecurity) Master Degree @ **Politecnico di Torino**, *Turin - Italy* 🏫.
-* 🔭 I’m currently working on my thesis about ransomware attacks detection on computer networks. 
-* 💬 Ask me about IT: Cybersecurity, Telegram Bots and Web Applications
-* ⚡ Fun fact: I love games and i'm addicted to League of Legends!
+I am a Cyber Security Consultant @ Liquid Reply IT, *Turin - Italy* 🏫.
+* 🏫 Graduated in Computer Engineering (Cybersecurity) Master Degree @ **Politecnico di Torino**
+* 💬 Ask me about IT: Cybersecurity (Identity and Access Management), Telegram Bots and Web Applications
+* ⚡ Fun fact: I love games and i'm addicted to League of Legends and The Battle Cats!
 
 
 Here some information about my GitHub profile:  
