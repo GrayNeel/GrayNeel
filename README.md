@@ -3,8 +3,8 @@
 ### Hi there, It's Marco Smorti 👋
 
 I am a Consultant @ Spike IAM Reply IT, *Turin - Italy* 🏫.
-* 🏫 Graduated in Computer Engineering (Cybersecurity) Master Degree @ **Politecnico di Torino**
-* 💬 Ask me about IT: Cybersecurity (Identity and Access Management), Telegram Bots and Web Applications
+* 🏫 Graduated in Computer Engineering Master Degree @ **Politecnico di Torino**
+* 💬 Ask me about IT: Software Development, Cybersecurity and Telegram Bots
 * ⚡ Fun fact: I love games and i'm addicted to League of Legends and The Battle Cats!
 
 
