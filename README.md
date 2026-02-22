@@ -6,7 +6,3 @@ I am a Consultant @ Spike IAM Reply IT, *Turin - Italy* 🏫.
 * 🏫 Graduated in Computer Engineering Master Degree @ **Politecnico di Torino**
 * 💬 Ask me about IT: Software Development, Cybersecurity and Telegram Bots
 * ⚡ Fun fact: I love games and i'm addicted to League of Legends and The Battle Cats!
-
-
-Here some information about my GitHub profile:  
-![Stats](https://github-readme-stats.vercel.app/api?username=grayneel&count_private=true&show_icons=true&theme=react&hide=stars&hide_border=true&custom_title=Stats) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayNeel&layout=compact&langs_count=8&theme=react&hide_border=true)
