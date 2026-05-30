@@ -87,9 +87,9 @@ hobbies:
 ## 🏆 Trophies
 
 <div align="center">
-  
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=GrayNeel&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy" />
-  
+
+  <img src="https://github-trophies.vercel.app/?username=GrayNeel&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy" />
+
 </div>
 
 ---
